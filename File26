@@ -1,0 +1,1 @@
+Adding a Content-Security-Policy to Electron Apps. Probably one of the easier ways to do this is to use the HTML Meta Tag to add a Content Security Policy.
